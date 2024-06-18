@@ -6,5 +6,4 @@ Tailwind CSS
 Axios mkkm
 Makeup API (REST)
 and probably some more things
-jkjkjk
-jjjnjnjm
+SpringBoot
