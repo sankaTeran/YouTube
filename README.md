@@ -3,7 +3,7 @@ This is a code along project where we code live on streams an Makeup Website usi
 
 ReactJS (+ Context API, hooks and routing)
 Tailwind CSS
-Axios
+Axios mkkm
 Makeup API (REST)
 and probably some more things
-jkjkjk
+SpringBoot
